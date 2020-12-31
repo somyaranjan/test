@@ -1,5 +1,7 @@
 def add():
-    for i in range(20):
-        print(i+1)
+    x = 12
+    y = 45
+    i = x+y
+    print(i)
 
 add()
